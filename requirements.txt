@@ -1,0 +1,4 @@
+torch>=2.1
+numpy >= 1.26
+torchvision >= 0.16
+tqdm >= 4.66.1
